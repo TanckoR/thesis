@@ -1,0 +1,24 @@
+C:\Users\Влад\Documents\Visual Studio 2015\Projects\Тест\Обучение\Обучение\bin\Debug\Обучение.exe.config
+C:\Users\Влад\Documents\Visual Studio 2015\Projects\Тест\Обучение\Обучение\bin\Debug\Обучение.exe
+C:\Users\Влад\Documents\Visual Studio 2015\Projects\Тест\Обучение\Обучение\bin\Debug\Обучение.pdb
+C:\Users\Влад\Documents\Visual Studio 2015\Projects\Тест\Обучение\Обучение\obj\Debug\Обучение.csprojResolveAssemblyReference.cache
+C:\Users\Влад\Documents\Visual Studio 2015\Projects\Тест\Обучение\Обучение\obj\Debug\Обучение.Form.resources
+C:\Users\Влад\Documents\Visual Studio 2015\Projects\Тест\Обучение\Обучение\obj\Debug\Обучение.Properties.Resources.resources
+C:\Users\Влад\Documents\Visual Studio 2015\Projects\Тест\Обучение\Обучение\obj\Debug\Обучение.csproj.GenerateResource.Cache
+C:\Users\Влад\Documents\Visual Studio 2015\Projects\Тест\Обучение\Обучение\obj\Debug\Обучение.exe
+C:\Users\Влад\Documents\Visual Studio 2015\Projects\Тест\Обучение\Обучение\obj\Debug\Обучение.pdb
+C:\Users\Home\Desktop\Обучение\Обучение\bin\Debug\Обучение.exe.config
+C:\Users\Home\Desktop\Обучение\Обучение\obj\Debug\Обучение.exe
+C:\Users\Home\Desktop\Обучение\Обучение\obj\Debug\Обучение.pdb
+C:\Users\Home\Desktop\Обучение\Обучение\bin\Debug\Обучение.exe
+C:\Users\Home\Desktop\Обучение\Обучение\bin\Debug\Обучение.pdb
+C:\Users\Home\Desktop\Обучение\Обучение\obj\Debug\Обучение.csprojResolveAssemblyReference.cache
+C:\Users\Home\Desktop\Обучение\Обучение\obj\Debug\Обучение.Form.resources
+C:\Users\Home\Desktop\Обучение\Обучение\obj\Debug\Обучение.Properties.Resources.resources
+C:\Users\Home\Desktop\Обучение\Обучение\obj\Debug\Обучение.csproj.GenerateResource.Cache
+C:\Users\Админ\Desktop\games\Обучение\Обучение\bin\Debug\Обучение.exe.config
+C:\Users\Админ\Desktop\games\Обучение\Обучение\obj\Debug\Обучение.exe
+C:\Users\Админ\Desktop\games\Обучение\Обучение\obj\Debug\Обучение.pdb
+D:\Диплом\Обучение\Обучение\bin\Debug\Обучение.exe.config
+D:\Диплом\Обучение\Обучение\obj\Debug\Обучение.exe
+D:\Диплом\Обучение\Обучение\obj\Debug\Обучение.pdb
